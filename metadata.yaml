@@ -1,5 +1,8 @@
 _repo: A-Captive-at-Carlsruhe-and-Other-German-Prison-Camps_51222
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51222-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Lee, Joseph
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46312
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Lee_(poet)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51222#A-Captive-at-Carlsruhe-and-Other-German-Prison-Camps
 gutenberg_issued: '2016-02-15'
 gutenberg_type: Text
 identifiers:
